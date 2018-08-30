@@ -48,9 +48,17 @@ public class MainActivity extends AppCompatActivity {
 
     public void DataList(){
 
-        listMakanan.add(new ModelMakanan(R.drawable.alvin,"TWICE", "Rp 10.000", "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse imperdiet luctus congue. Nulla facilisi. Duis pellentesque interdum nisl scelerisque placerat. Nunc sit amet dui at felis consectetur cursus quis tincidunt purus. Suspendisse potenti. Nam a pellentesque mauris, laoreet hendrerit magna. Aliquam at interdum orci. Nam eget neque magna. Morbi iaculis diam sit amet tellus volutpat vulputate. Pellentesque posuere mauris at augue pellentesque volutpat. Vivamus molestie tincidunt euismod. Donec tincidunt, tellus ac eleifend consectetur, purus massa sodales lorem, a interdum sem turpis sit amet orci. Fusce vitae lobortis enim."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin,"TWICE", "Rp 10.000", "Bakso yang rasanya kaya disuapin sama Tzuyu."));
         listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
-
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
+        listMakanan.add(new ModelMakanan(R.drawable.alvin1,"BLACKPINK", "Rp 15.000", "Soto yang enak di tambah porsinya yang jumbo membuat anda menjadi lebih sehat seperti sediakala."));
     }
 
     @Override
